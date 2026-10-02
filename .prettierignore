@@ -1,0 +1,19 @@
+# Dependencies and caches
+node_modules/
+.npm/
+
+# Generated documentation and build output
+jsdoc/
+dist/
+
+# Test, coverage, and runtime output
+coverage/
+reports/
+test-results/
+playwright-report/
+playwright/.cache/
+logs/
+resources/
+
+# Packaged artifacts
+*.tgz

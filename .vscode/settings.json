@@ -1,0 +1,25 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "YOUR_CONNECTION_ID",
+        "projectKey": "YOUR_PROJECT_KEY"
+    },
+    "prettier.configPath": ".prettierrc",
+    "prettier.prettierPath": "node_modules/prettier/index.cjs",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit",
+        "source.fixAll.eslint": "explicit"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "js/ts.updateImportsOnFileMove.enabled": "always",
+    "editor.fontSize": 10,
+    "chat.editor.fontSize": 10,
+    "chat.fontSize": 10,
+    "debug.console.fontSize": 10,
+    "scm.inputFontSize": 10,
+    "terminal.integrated.fontSize": 10,
+    "markdown.preview.fontSize": 10
+}
